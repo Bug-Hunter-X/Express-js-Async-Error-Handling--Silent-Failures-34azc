@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js applications involving asynchronous operations and error handling.  Improperly handled promises can lead to silent failures, making debugging difficult. The `bug.js` file showcases the error, while `bugSolution.js` provides the correct implementation.
